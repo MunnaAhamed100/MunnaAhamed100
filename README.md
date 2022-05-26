@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MunnaAhamed100
-- 👀 I’m interested in sex
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
